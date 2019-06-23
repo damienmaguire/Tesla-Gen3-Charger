@@ -1,6 +1,8 @@
 # Tesla-Gen3-Charger
 Reverse Engineering of the Tesla Gen3 charger and development of an open source control board.
 
+PCB Files in Designspark 8 format.
+
 Fully built and tested boards and bare PCBs available here : http://www.evbmw.com/index.php/evbmw-webshop
 
 Support forum : https://openinverter.org/forum/
