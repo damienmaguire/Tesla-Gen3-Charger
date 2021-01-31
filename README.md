@@ -21,3 +21,15 @@ CAN bus runs at 500kbps
 Testing Video : https://www.youtube.com/watch?v=1sUr_uLYlNU
 
 Wiring Video : https://www.youtube.com/watch?v=ihl3hX3UZBc
+
+31/01/21 : New V3 design using the STM32F103 completed and full opensource release. Uses the new Openinverter software :
+
+https://openinverter.org/forum/viewtopic.php?f=10&t=1323
+
+https://openinverter.org/shop/index.php?route=product/product&product_id=67
+
+Full kits and partial boards available from the EVBMW webshop:
+
+https://www.evbmw.com/index.php/evbmw-webshop/tesla-boards/tesla-gen-3-charger-controller-kit
+
+
